@@ -29,8 +29,7 @@ relied on for:
 
 Known limitations include occasional missed or garbled callsigns,
 particularly at the start of a transmission, and general transcription
-error rates inherent to automatic speech recognition. *(Adjust this list
-to whatever you're comfortable stating publicly.)*
+error rates inherent to automatic speech recognition. 
 
 ## Non-commercial
 
