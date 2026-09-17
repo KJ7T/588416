@@ -4,10 +4,6 @@ title: Disclaimers
 permalink: /disclaimers.html
 ---
 
-**DRAFT — review before publishing.** The points below reflect what's been
-discussed and documented so far; tighten the wording and add/remove
-anything before this goes live.
-
 ## Recording and transcription
 
 Audio relayed through node 588416 may be recorded and transcribed as part

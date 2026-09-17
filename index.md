@@ -17,5 +17,4 @@ itself is offline.
   AI-assisted net-logging service running on this node
 - **[Changelog](changelog.md)** — notable changes to the node over time
 
-Questions about this node can be directed to KJ7T. *(Add your preferred
-contact method here — email, QRZ, etc.)*
+Questions about this node can be directed to KJ7T at tsalzer@pm.me or via my QRZ page at https://www.qrz.com/db/KJ7T.
