@@ -17,4 +17,4 @@ recently, for experimenting with AI-assisted net logging (see
 local radio hardware, all audio it carries arrives from — and may be relayed
 to — other linked nodes and repeaters.
 
-[AllScan](https://588416.nodes.allstarlink.org/allscan/), by [AllScan.info](https://allscan.info/), runs on node 588416.
+[AllScan](https://588416.nodes.allstarlink.org/allscan/), by [AllScan.info](https://allscan.info/), is used by KJ7T to manage node connections.
