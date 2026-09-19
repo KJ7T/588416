@@ -10,6 +10,8 @@ node 588416. It exists so information about the node — what it does, how
 it's used, and what's changed over time — stays available even if the node
 itself is offline.
 
+{% include node-status-v1.0.html node="588416" %}
+
 - **[About This Node](about.md)** — what 588416 is and how it's used
 - **[Disclaimers](disclaimers.md)** — recording/transcription notice and
   limitations
