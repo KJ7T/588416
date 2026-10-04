@@ -1,3 +1,11 @@
+{%- comment -%}
+header.html (Starter Kit v1.3)
+This is the minima theme's own page header, copied into your repository so
+you can add one thing to it: an optional "Home" link. Jekyll uses this file
+instead of the theme's copy, which is why it holds the whole header.
+The Home link appears only if _config.yml has a home_url line. See the
+README. The file is the same in every node repository.
+{%- endcomment -%}
 <header class="site-header" role="banner">
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
@@ -12,7 +20,9 @@
       </label>
 
       <div class="trigger">
-        <a class="page-link" href="https://kj7t.github.io/">Home</a>
+        {%- if site.home_url and site.home_url != "" -%}
+        <a class="page-link" href="{{ site.home_url | escape }}">Home</a>
+        {%- endif -%}
         {%- for path in site.header_pages -%}
           {%- assign my_page = site.pages | where: "path", path | first -%}
           {%- if my_page.title -%}
